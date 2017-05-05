@@ -43,8 +43,8 @@ module.exports = window.L.LayerGroup.extend({
             }
         }
     },
-    
-    
+
+
     onRemove: function (map) {
         L.LayerGroup.prototype.onRemove.call(this, map); //call parent
 
