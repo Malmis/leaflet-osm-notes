@@ -1,6 +1,6 @@
 {
   "name": "leaflet-osm-notes",
-  "version": "0.0.1",
+  "version": "0.0.1-1",
   "description": "show notes from OpenStreetMap on Leaflet",
   "main": "index.js",
   "directories": {
@@ -9,7 +9,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": "git@github.com:osmlab/leaflet-osm-notes.git",
+  "repository": "git@github.com:Malmis/leaflet-osm-notes.git",
   "keywords": [
     "openstreetmap",
     "notes",
